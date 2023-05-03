@@ -1,0 +1,2 @@
+# USERNAME = 'userName'
+# PASSWORD = 'password'
